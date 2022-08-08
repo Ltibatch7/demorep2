@@ -3,6 +3,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hi, Praveen");
+    System.out.println("Hi, Praveen. Today is 8th of August.");
   }
 }
